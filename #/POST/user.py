@@ -1,1 +1,2 @@
-
+test = 'hi'
+print(test)
